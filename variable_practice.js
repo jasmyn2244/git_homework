@@ -7,3 +7,6 @@ var firstName = "Jasmyn"
 iAm = "good student"
 minutesToClassTime = 64
 gratefulFor = "my brain"
+minutestoClass = 61
+gratefulFor = "good weather"
+firstName = "Cynthia"
