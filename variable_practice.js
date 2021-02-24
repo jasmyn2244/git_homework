@@ -1,0 +1,9 @@
+var iAm = "procrastinaor"
+var minutesToClassTime = 67
+var feelingStressed = true
+var currentThoughts = "feeling anxious", "should have started sooner", "still stoked about what I'm learning"
+var gratefulFor = "this opportunity"
+var firstName = "Jasmyn"
+iAm = "good student"
+minutesToClassTime = 64
+gratefulFor = "my brain"
